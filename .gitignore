@@ -1,0 +1,12 @@
+
+# File rahasia
+PASSWORD ADMIN.txt
+
+# File konfigurasi lokal yang mungkin berisi kredensial
+.env
+.env.*
+
+# File sistem dan editor
+.DS_Store
+Thumbs.db
+.vscode/
