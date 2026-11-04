@@ -1,127 +1,165 @@
-# 🧵 Informasi Ulos Tradisional dan Ulos Modern
+# 🧵 Informasi Ulos – Tradisional dan Modern
 
 <p align="center">
-  <strong>Website Informasi dan Pengenalan Kain Ulos Batak</strong>
+  **Website Informasi dan Pengenalan Kain Ulos Batak**
 </p>
 
 <p align="center">
-  Mengenal kekayaan budaya Batak melalui kain Ulos, mulai dari jenis, sejarah, makna, hingga perkembangannya dalam kehidupan modern.
+  Media informasi digital untuk mengenal, memahami, dan melestarikan warisan budaya kain Ulos Batak.
 </p>
 
 ---
 
 ## 📖 Tentang Proyek
 
-**Informasi Ulos Tradisional dan Ulos Modern** merupakan sebuah website yang dikembangkan sebagai media informasi dan pengenalan salah satu warisan budaya masyarakat Batak, yaitu kain Ulos.
+**Informasi Ulos** merupakan sebuah website yang dikembangkan sebagai media informasi dan pengenalan kain Ulos, salah satu warisan budaya masyarakat Batak.
 
-Website ini bertujuan untuk memberikan informasi kepada masyarakat, khususnya generasi muda, mengenai keberagaman kain Ulos tradisional serta perkembangan penggunaannya dalam dunia modern.
+Website ini menyajikan informasi mengenai Ulos tradisional dan Ulos modern, termasuk berbagai jenis, gambar, serta informasi produk yang berkaitan dengan kain Ulos.
 
-Melalui website ini, pengunjung dapat mengenal berbagai jenis Ulos, memahami nilai budaya dan filosofi yang terkandung di dalamnya, serta melihat bagaimana Ulos tetap berkembang mengikuti zaman.
+Melalui pemanfaatan teknologi website, proyek ini diharapkan dapat membantu masyarakat mengenal kekayaan budaya Batak sekaligus memperkenalkan perkembangan kain Ulos di era modern.
 
 ## 🎯 Tujuan Pengembangan
 
-- Memperkenalkan kain Ulos sebagai salah satu warisan budaya Batak.
-- Menyediakan informasi mengenai jenis-jenis Ulos tradisional.
-- Mengenalkan perkembangan Ulos dalam desain dan penggunaan modern.
-- Menjadi media edukasi dan dokumentasi budaya berbasis website.
-- Membantu meningkatkan kesadaran generasi muda untuk melestarikan budaya lokal.
+- Memperkenalkan kain Ulos sebagai warisan budaya Batak.
+- Menyediakan informasi mengenai Ulos tradisional dan modern.
+- Menampilkan berbagai jenis dan produk kain Ulos.
+- Menjadi media informasi budaya yang dapat diakses secara digital.
+- Mendukung pelestarian budaya lokal melalui teknologi informasi.
 
 ## ✨ Fitur Website
 
-- **Informasi Ulos Tradisional** – Menampilkan informasi mengenai berbagai jenis kain Ulos tradisional.
-- **Informasi Ulos Modern** – Memperkenalkan perkembangan dan penggunaan Ulos dalam kehidupan modern.
-- **Galeri Ulos** – Menampilkan gambar dan dokumentasi kain Ulos.
-- **Informasi Budaya** – Menyediakan penjelasan mengenai sejarah, filosofi, dan nilai budaya Ulos.
-- **Navigasi Website** – Memudahkan pengunjung menjelajahi halaman informasi.
+- **Informasi Ulos:** Menyediakan informasi seputar kain Ulos.
+- **Ulos Tradisional:** Mengenalkan jenis dan karakteristik Ulos tradisional.
+- **Ulos Modern:** Menampilkan perkembangan dan penggunaan Ulos modern.
+- **Detail Produk:** Menampilkan informasi lebih lanjut mengenai produk Ulos.
+- **Galeri Gambar:** Menampilkan dokumentasi dan gambar kain Ulos.
+- **Halaman Informasi:** Menyediakan halaman tambahan mengenai website dan budaya Ulos.
 
-*Catatan: Sesuaikan daftar fitur ini dengan fitur yang benar-benar tersedia pada aplikasi.*
+*Fitur di atas perlu disesuaikan dengan fungsi yang benar-benar tersedia di dalam aplikasi.*
 
 ## 🛠️ Teknologi yang Digunakan
 
 | Teknologi | Kegunaan |
 |---|---|
+| PHP | Pemrograman sisi server |
 | HTML | Struktur halaman website |
-| CSS | Mengatur tampilan dan desain |
+| CSS | Pengaturan tampilan website |
 | JavaScript | Interaksi pada halaman website |
-| PHP | Pemrosesan sisi server, jika digunakan |
-| MySQL | Pengelolaan basis data, jika digunakan |
-| Bootstrap | Membantu desain tampilan responsif, jika digunakan |
+| MySQL | Pengelolaan basis data |
 
 ## 📂 Struktur Folder Proyek
 
-Berikut gambaran struktur direktori proyek:
+Berikut struktur direktori proyek berdasarkan repositori:
 
 ```text
-Informasi-Ulos/
+informasi-ulos/
 │
-├── index.php / index.html
-├── css/
-│   └── style.css
+├── DATABASE/           # Berkas terkait database
 │
-├── js/
-│   └── script.js
+├── admin/              # Halaman atau pengelolaan admin
 │
-├── images/
-│   └── gambar-ulos/
+├── css/                # File stylesheet website
 │
-├── database/
-│   └── database.sql
+├── fonts/              # File font yang digunakan
 │
-├── README.md
-└── file-pendukung-lainnya
+├── image/              # Gambar dan aset visual website
+│
+├── js/                 # File JavaScript
+│
+├── koneksi/            # Konfigurasi koneksi database
+│
+├── proses/             # File pemrosesan data
+│
+├── video/              # Aset video website
+│
+├── .gitignore          # Konfigurasi file yang diabaikan Git
+├── README.md           # Dokumentasi proyek
+│
+├── about.php           # Halaman tentang website
+├── add_comment.php     # Pemrosesan penambahan komentar
+├── detail.php          # Halaman detail informasi
+├── detail_produk.php   # Halaman detail produk
+│
+├── cikhuy.jpg          # Aset gambar
+├── dor3.png            # Aset gambar
+│
+└── ...                 # File PHP dan aset pendukung lainnya
 ```
-
-*Struktur di atas merupakan gambaran umum. Sesuaikan nama folder dan file dengan struktur asli proyek.*
 
 ## 🚀 Cara Menjalankan Proyek
 
-Jika proyek menggunakan PHP dan MySQL, ikuti langkah berikut:
+Proyek ini dapat dijalankan menggunakan lingkungan server lokal XAMPP.
 
-1. Clone repositori:
+### Persyaratan
+
+- XAMPP
+- PHP
+- MySQL
+- Web Browser
+
+### Langkah Instalasi
+
+1. Clone repositori GitHub:
 
    ```bash
-   git clone https://github.com/tumpalsiahaan123/informasi-ulos-tradisional-modern.git
+   git clone https://github.com/tumpalsiahaan123/informasi-ulos.git
    ```
 
-2. Pindahkan folder proyek ke direktori `htdocs` pada XAMPP.
-
-3. Jalankan Apache dan MySQL melalui XAMPP Control Panel.
-
-4. Jika proyek menggunakan database, buka phpMyAdmin dan buat database sesuai konfigurasi aplikasi.
-
-5. Import file database SQL yang tersedia, jika diperlukan.
-
-6. Sesuaikan konfigurasi koneksi database dengan lingkungan lokal.
-
-7. Buka website melalui browser:
+2. Pindahkan folder proyek ke direktori:
 
    ```text
-   http://localhost/Informasi-Ulos/
+   C:\xampp\htdocs\
+   ```
+
+3. Buka XAMPP Control Panel.
+
+4. Aktifkan layanan **Apache** dan **MySQL**.
+
+5. Jika proyek membutuhkan database, buka phpMyAdmin melalui:
+
+   ```text
+   http://localhost/phpmyadmin
+   ```
+
+6. Buat database dan import berkas SQL dari folder `DATABASE`, sesuai nama database yang digunakan aplikasi.
+
+7. Sesuaikan konfigurasi koneksi database pada folder `koneksi`.
+
+8. Jalankan website melalui browser:
+
+   ```text
+   http://localhost/informasi-ulos/
    ```
 
 ## 🖼️ Tampilan Website
 
-Tambahkan screenshot halaman website pada bagian ini agar pengunjung GitHub dapat melihat hasil pengembangan proyek.
+Bagian ini dapat digunakan untuk menampilkan dokumentasi visual website.
+
+Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bagian berikut.
 
 ### Halaman Utama
 
 ![Halaman Utama](screenshots/halaman-utama.png)
 
-### Informasi Ulos Tradisional
+### Ulos Tradisional
 
 ![Ulos Tradisional](screenshots/ulos-tradisional.png)
 
-### Informasi Ulos Modern
+### Ulos Modern
 
 ![Ulos Modern](screenshots/ulos-modern.png)
 
-*Pastikan gambar sudah diunggah ke folder `screenshots` dan nama filenya sesuai.*
+### Detail Produk
 
-##  Manfaat Proyek
+![Detail Produk](screenshots/detail-produk.png)
 
-Website ini diharapkan dapat menjadi salah satu media digital untuk memperkenalkan dan melestarikan warisan budaya Batak. Dengan memanfaatkan teknologi website, informasi mengenai kain Ulos dapat diakses dengan lebih mudah oleh masyarakat luas.
+## 🌏 Manfaat Proyek
 
-##  Pengembang
+Website Informasi Ulos menjadi salah satu bentuk pemanfaatan teknologi digital untuk memperkenalkan budaya lokal kepada masyarakat luas.
+
+Melalui media ini, informasi mengenai kain Ulos diharapkan dapat lebih mudah diakses, dipelajari, dan dikenal oleh generasi muda.
+
+## 👨‍💻 Pengembang
 
 **Tumpal P Siahaan**
 
@@ -129,12 +167,12 @@ Mahasiswa D3 Teknologi Komputer
 
 Institut Teknologi Del
 
-##  Lisensi
+## 📄 Lisensi
 
-Proyek ini dikembangkan untuk tujuan Memperkenalkan ulos lebih jelas kepada generasi kini yang dimana  sudah mulai lupa akan tradisi, pembelajaran, dokumentasi, dan pengembangan portofolio.
+Proyek ini dikembangkan untuk tujuan pembelajaran, pengembangan website, dan dokumentasi portofolio.
 
 ---
 
 <p align="center">
-  <strong>Melestarikan Budaya Batak Melalui Teknologi Digital.</strong>
+  **Melestarikan Budaya Batak Melalui Teknologi Digital.**
 </p>
