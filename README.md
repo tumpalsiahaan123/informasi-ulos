@@ -32,7 +32,7 @@ Informasi Ulos merupakan proyek website untuk memperkenalkan ulos Batak, budaya 
 
 ## Catatan
 
-Proyek ini dibuat sebagai proyek pembelajaran pengembangan website. Jangan publikasikan kata sandi, kredensial database, atau data pribadi.
+Proyek ini dibuat sebagai proyek pembelajaran pengembangan website. 
 
 ## Author
 
