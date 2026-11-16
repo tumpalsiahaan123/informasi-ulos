@@ -139,7 +139,7 @@ Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bag
 
 ### Halaman Utama
 
-![Halaman Utama](screenshots/halaman-utama.png)
+![Halaman Utama](image.png)
 
 ### Ulos Tradisional
 
