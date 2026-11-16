@@ -143,7 +143,7 @@ Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bag
 
 ### Ulos Tradisional
 
-![Ulos Tradisional](ulos tradisional.png)
+![Ulos Tradisional](ulostradisional.png)
 
 ### Ulos Modern
 
