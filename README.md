@@ -151,7 +151,7 @@ Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bag
 
 ### Detail Produk
 
-![Detail Produk](screenshots/detail-produk.png)
+![Detail Produk](detailproduk.png)
 
 ## 🌏 Manfaat Proyek
 
