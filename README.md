@@ -151,7 +151,11 @@ Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bag
 
 ### Detail Produk
 
-![Detail Produk](detailproduk.png)
+![Detail Produk](detailulos.png)
+
+### Fitur popover Produk
+
+![Popover](fiturpopover.png)
 
 ## 🌏 Manfaat Proyek
 
