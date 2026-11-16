@@ -147,7 +147,7 @@ Tambahkan screenshot ke repositori, kemudian sesuaikan nama file gambar pada bag
 
 ### Ulos Modern
 
-![Ulos Modern](screenshots/ulos-modern.png)
+![Ulos Modern](ulosmodern.png)
 
 ### Detail Produk
 
